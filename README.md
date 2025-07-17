@@ -85,4 +85,11 @@ Two models are trained and evaluated:
 ---
 
 ## 📁 Project Structure
-
+📦 dropout-effects-regression/
+├── dropout_comparison_clean.py
+├── figures/
+│ ├── data_distribution.png
+│ ├── prediction_comparison.png
+│ └── training_loss_curves.png
+├── README.md
+└── .gitignore
